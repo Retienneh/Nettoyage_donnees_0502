@@ -1,6 +1,7 @@
 EXERCICS DE NETTOYAGE DE DONNÉES AVEC PYTHON
 
-PROJETS : Analysons des factures d'énergie
+
+PROJET 1 : Analysons des factures d'énergie
 1. Introduction
 Un des cas d'usage fréquents de l'analyse de données est ce qu'on appelle la détection d'anomalies. Il s'agit en fait de checker, à travers des gros jeux de donnnées, s'il n'y a pas des éléments de la chaîne de production qui dysfonctionnent.
 
@@ -30,8 +31,9 @@ Un fichier .ipynb qui contient l'ensemble de tes analyses.
 Le fichier csv final, beaucoup plus clean et exploitable par les équipes de comptabilité. Et si tu as réussi cette étape, l'autre fichier csv qui donne la liste des coefficients de variation.
 
 
+Projet 2 : Analysons la qualité de l'air
 
-Analysons la qualité de l'air 💨💨
+Analysons la qualité de l'air
 1. Introduction
 Après ta mission chez l'opérateur de télécoms, tu as voulu changer d'univers et rejoindre le monde des ONGs. Tu as trouvé un poste chez OpenAQ, une organisation à but non lucratif qui permet aux communautés du monde entier de purifier leur air en harmonisant, en partageant et en utilisant des données ouvertes sur la qualité de l'air.
 
